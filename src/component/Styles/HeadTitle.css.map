@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CACN;EACI,UAAU,EAAE,KAAK;CACpB;;AACD,AAAA,WAAW,CACX;EACI,UAAU,EAAC,GACf;CAAC;;AACD,AAAA,aAAa,CACb;EACI,YAAY,EAAC,EAAE;CAClB",
+    "sources": [
+        "HeadTitle.scss"
+    ],
+    "names": [],
+    "file": "HeadTitle.css"
+}

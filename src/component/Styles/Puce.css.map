@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAC,AAAA,KAAK,CACJ;EACI,UAAU,EAAE,IAAI;CACnB",
+    "sources": [
+        "Puce.scss"
+    ],
+    "names": [],
+    "file": "Puce.css"
+}

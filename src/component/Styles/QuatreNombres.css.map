@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,AAAA,aAAa,CACd;EACI,WAAW,EAAE,IAAI;EACjB,SAAS,EAAC,GACd;CAAC",
+    "sources": [
+        "QuatreNombres.scss"
+    ],
+    "names": [],
+    "file": "QuatreNombres.css"
+}

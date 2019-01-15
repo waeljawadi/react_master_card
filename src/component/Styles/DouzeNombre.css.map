@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACL,UAAU,EAAE,SAAS;EACrB,SAAS,EAAE,GAAG;EACd,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,GAAG;EACnB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "DouzeNombre.scss"
+    ],
+    "names": [],
+    "file": "DouzeNombre.css"
+}
