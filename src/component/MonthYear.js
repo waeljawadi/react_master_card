@@ -2,7 +2,7 @@ import React from 'react'
 import {Col,Grid,Row} from 'react-bootstrap'
 import {onze} from '../component/Styles/MonthYear.css'
  
-const MonthYear = () => {
+const MonthYear = (props) => {
     return(
     <div>
 
@@ -17,7 +17,13 @@ const MonthYear = () => {
     </Col>
     <Col md={6}>
 
-    <span className="onze">11/50</span>
+    <span className="onze">
+    {props.validuntil.split('')[0]}
+    {props.validuntil.split('')[1]} 
+    /
+    {props.validuntil.split('')[2]}
+    {props.validuntil.split('')[3]} 
+    </span>
 </Col>    
 </Row>
 

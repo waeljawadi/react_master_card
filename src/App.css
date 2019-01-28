@@ -64,5 +64,7 @@
 .bgprin.container {
   border-radius: 68px;
   margin-top: 3%;
+  -webkit-transform: scale(0.4);
+          transform: scale(0.4);
 }
 /*# sourceMappingURL=App.css.map */
